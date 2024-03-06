@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1041416472984",
+    "project_id": "ev-okulu-577e8",
+    "storage_bucket": "ev-okulu-577e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041416472984:android:033c7dfd1ad4c06f4343ed",
+        "android_client_info": {
+          "package_name": "com.example.evokuluuuu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpABlDDfW3UT6HDCQgoXlKqYw-DDLAHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041416472984:android:1f760bdc6b4b50d74343ed",
+        "android_client_info": {
+          "package_name": "com.example.projee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpABlDDfW3UT6HDCQgoXlKqYw-DDLAHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041416472984:android:fb41bc8d2bf5420e4343ed",
+        "android_client_info": {
+          "package_name": "f23f2f.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpABlDDfW3UT6HDCQgoXlKqYw-DDLAHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
